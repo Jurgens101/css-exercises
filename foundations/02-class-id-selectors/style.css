@@ -1,0 +1,51 @@
+
+@font-face {
+    font-family: "DejaVuSans";
+     src: url(    /Users/amf/Css/css-exercises/foundations/02-class-id-selectors/DejaVuMathTeXGyre.ttf);
+     src: url(   /Users/amf/Css/Css-exercises/foundations/02-class-id-selectors/DejaVuSans-Bold.ttf);
+     src: url(   /Users/amf/Css/Css-exercises/foundations/02-class-id-selectors/DejaVuSans-BoldOblique.ttf);
+     src: url(   /Users/amf/Css/Css-exercises/foundations/02-class-id-selectors/DejaVuSans-ExtraLight.ttf);
+     src: url(   /Users/amf/Css/Css-exercises/foundations/02-class-id-selectors/DejaVuSans-Oblique.ttf);
+     src: url(   /Users/amf/Css/Css-exercises/foundations/02-class-id-selectors/DejaVuSans.ttf);
+     src: url(   /Users/amf/Css/Css-exercises/foundations/02-class-id-selectors/DejaVuSansCondensed-Bold.ttf);
+     src: url(   /Users/amf/Css/Css-exercises/foundations/02-class-id-selectors/DejaVuSansCondensed-BoldOblique.ttf);
+     src: url(   /Users/amf/Css/Css-exercises/foundations/02-class-id-selectors/DejaVuSansCondensed-Oblique.ttf);
+     src: url(   /Users/amf/Css/Css-exercises/foundations/02-class-id-selectors/DejaVuSansCondensed.ttf);
+     src: url(   /Users/amf/Css/Css-exercises/foundations/02-class-id-selectors/DejaVuSansMono-Bold.ttf);
+     src: url(   /Users/amf/Css/Css-exercises/foundations/02-class-id-selectors/DejaVuSansMono-BoldOblique.ttf);
+     src: url(   /Users/amf/Css/Css-exercises/foundations/02-class-id-selectors/DejaVuSansMono-Oblique.ttf);
+     src: url(   /Users/amf/Css/Css-exercises/foundations/02-class-id-selectors/DejaVuSansMono.ttf);
+     src: url(   /Users/amf/Css/Css-exercises/foundations/02-class-id-selectors/DejaVuSerif-Bold.ttf);
+     src: url(   /Users/amf/Css/Css-exercises/foundations/02-class-id-selectors/DejaVuSerif-BoldItalic.ttf);
+     src: url(   /Users/amf/Css/Css-exercises/foundations/02-class-id-selectors/DejaVuSerif-Italic.ttf);
+     src: url(   /Users/amf/Css/Css-exercises/foundations/02-class-id-selectors/DejaVuSerif.ttf);
+     src: url(   /Users/amf/Css/Css-exercises/foundations/02-class-id-selectors/DejaVuSerifCondensed-Bold.ttf);
+     src: url(   /Users/amf/Css/Css-exercises/foundations/02-class-id-selectors/DejaVuSerifCondensed-BoldItalic.ttf);
+     src: url(   /Users/amf/Css/Css-exercises/foundations/02-class-id-selectors/DejaVuSerifCondensed-Italic.ttf);
+     src: url(   /Users/amf/Css/Css-exercises/foundations/02-class-id-selectors/DejaVuSerifCondensed.ttf);
+  }
+
+
+.subsection{
+    color:rgb(8, 0, 255);  font-size: 36px;
+}
+
+
+.subsection#ID{
+    color:black; background-color: green; font-size: 24px; font-weight: bold;
+}
+
+.Three,
+.Odd {
+    color:rgb(0, 0, 0); 
+    background-color: rgba(253, 97, 89, 0.853);
+    font-family: "Verdana", "DejaVuSans", sans-serif;
+
+}
+
+.Three{
+    font-size: 24px; 
+}
+
+
+  
